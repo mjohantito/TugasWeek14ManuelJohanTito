@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\bin\Debug\TugasWeek14_quizpanda.exe.config
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\bin\Debug\TugasWeek14_quizpanda.exe
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\bin\Debug\TugasWeek14_quizpanda.pdb
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.Form1.resources
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.Properties.Resources.resources
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.exe
+C:\Users\User\source\repos\TugasWeek14_quizpanda\TugasWeek14_quizpanda\obj\Debug\TugasWeek14_quizpanda.pdb
